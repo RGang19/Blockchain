@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/rahul/Desktop/Blockchain/target/debug/build/typenum-e5ef33df818e437d/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/rahul/Desktop/Blockchain/target/debug/build/typenum-e5ef33df818e437d/out/op.rs
